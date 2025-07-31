@@ -30,9 +30,8 @@
 <a href="https://twitter.com/palakbhatn7240" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="palakbhatn7240" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/palak bhatnagar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="palak bhatnagar" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/palak bhatnagar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="palak bhatnagar" height="30" width="40" /></a>
-
-<a href="https://kaggle.com/palak bhatnagar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="palak bhatnagar" height="30" width="40" /></a>
 <br><br>
+<a href="https://kaggle.com/palak bhatnagar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="palak bhatnagar" height="30" width="40" /></a>
   
 <a href="https://www.hackerrank.com/@0231csml172" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@0231csml172" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/palak bhatnagar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="palak bhatnagar" height="30" width="40" /></a>
@@ -50,6 +49,7 @@
       <br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=palakbhatnagar172&show_icons=true&locale=en&layout=compact" alt="palakbhatnagar172" /></p>
+<br><br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=palakbhatnagar172&show_icons=true&locale=en" alt="palakbhatnagar172" /></p>
 
